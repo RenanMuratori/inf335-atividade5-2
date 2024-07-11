@@ -1,4 +1,4 @@
-package br.unicamp.ic.inf335;
+package main.java.br.unicamp.ic.inf335;
 
 public class OlaUnicamp {
     public static void main(String[] args) {
